@@ -1,0 +1,13 @@
+pip install SpeechRecognition
+pip install pyaudio
+->(If not installing through cmd, then go through this youtube video -> https://youtu.be/-3am_5jMzJ4)
+
+pip install wheel
+pip install monotonic
+pip install google-api-python-client
+pip install webbrowser
+pip install gtts
+pip install wikipedia
+pip install sounddevice
+pip install pygame
+pip install pywin32
